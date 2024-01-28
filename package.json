@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fastify/http-proxy": "^9.3.0",
+    "fastify": "^4.25.2"
+  }
+}
